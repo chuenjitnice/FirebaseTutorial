@@ -1,0 +1,17 @@
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\FirebaseTutorial.exe.config
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\FirebaseTutorial.exe
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\FirebaseTutorial.pdb
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\FireSharp.dll
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\Newtonsoft.Json.dll
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\RestSharp.dll
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\Newtonsoft.Json.xml
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\bin\Debug\RestSharp.xml
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.csproj.AssemblyReference.cache
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.Form1.resources
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.Properties.Resources.resources
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.csproj.GenerateResource.cache
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.csproj.CoreCompileInputs.cache
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.csproj.CopyComplete
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.exe
+D:\Nice\WorkSpace\CodingSpace\ProjectPractice\dotNet\FirebaseTutorial\FirebaseTutorial\obj\Debug\FirebaseTutorial.pdb
