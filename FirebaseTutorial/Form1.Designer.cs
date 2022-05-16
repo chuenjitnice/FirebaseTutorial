@@ -40,7 +40,6 @@ namespace FirebaseTutorial
             this.searchBox = new System.Windows.Forms.TextBox();
             this.searchButton = new System.Windows.Forms.Button();
             this.updateButton = new System.Windows.Forms.Button();
-            this.deleteButton = new System.Windows.Forms.Button();
             this.deleteAllButton = new System.Windows.Forms.Button();
             this.DbConnectStatus = new System.Windows.Forms.Label();
             this.dataShow = new System.Windows.Forms.DataGridView();
@@ -108,7 +107,7 @@ namespace FirebaseTutorial
             this.submitButton.TabIndex = 6;
             this.submitButton.Text = "Save";
             this.submitButton.UseVisualStyleBackColor = false;
-            this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
+            this.submitButton.Click += new System.EventHandler(this.SubmitBtn_Click);
             // 
             // label4
             // 
@@ -135,7 +134,7 @@ namespace FirebaseTutorial
             this.searchButton.TabIndex = 9;
             this.searchButton.Text = "search";
             this.searchButton.UseVisualStyleBackColor = true;
-            this.searchButton.Click += new System.EventHandler(this.searchButton_Click);
+            this.searchButton.Click += new System.EventHandler(this.SearchBtn_Click);
             // 
             // updateButton
             // 
@@ -149,21 +148,7 @@ namespace FirebaseTutorial
             this.updateButton.TabIndex = 10;
             this.updateButton.Text = "Update";
             this.updateButton.UseVisualStyleBackColor = false;
-            this.updateButton.Click += new System.EventHandler(this.updateButton_Click);
-            // 
-            // deleteButton
-            // 
-            this.deleteButton.BackColor = System.Drawing.Color.Red;
-            this.deleteButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.deleteButton.ForeColor = System.Drawing.Color.Snow;
-            this.deleteButton.Location = new System.Drawing.Point(114, 240);
-            this.deleteButton.Margin = new System.Windows.Forms.Padding(0);
-            this.deleteButton.Name = "deleteButton";
-            this.deleteButton.Size = new System.Drawing.Size(180, 30);
-            this.deleteButton.TabIndex = 11;
-            this.deleteButton.Text = "Delete";
-            this.deleteButton.UseVisualStyleBackColor = false;
-            this.deleteButton.Click += new System.EventHandler(this.deleteButton_Click);
+            this.updateButton.Click += new System.EventHandler(this.UpdateBtn_Click);
             // 
             // deleteAllButton
             // 
@@ -175,9 +160,9 @@ namespace FirebaseTutorial
             this.deleteAllButton.Name = "deleteAllButton";
             this.deleteAllButton.Size = new System.Drawing.Size(180, 40);
             this.deleteAllButton.TabIndex = 12;
-            this.deleteAllButton.Text = "Delete All";
+            this.deleteAllButton.Text = "Delete All Student";
             this.deleteAllButton.UseVisualStyleBackColor = false;
-            this.deleteAllButton.Click += new System.EventHandler(this.deleteAllButton_Click);
+            this.deleteAllButton.Click += new System.EventHandler(this.DeleteAllBtn_Click);
             // 
             // DbConnectStatus
             // 
@@ -208,7 +193,6 @@ namespace FirebaseTutorial
             this.Controls.Add(this.dataShow);
             this.Controls.Add(this.DbConnectStatus);
             this.Controls.Add(this.deleteAllButton);
-            this.Controls.Add(this.deleteButton);
             this.Controls.Add(this.updateButton);
             this.Controls.Add(this.searchButton);
             this.Controls.Add(this.searchBox);
@@ -243,7 +227,6 @@ namespace FirebaseTutorial
         private System.Windows.Forms.TextBox searchBox;
         private System.Windows.Forms.Button searchButton;
         private System.Windows.Forms.Button updateButton;
-        private System.Windows.Forms.Button deleteButton;
         private System.Windows.Forms.Button deleteAllButton;
         private System.Windows.Forms.Label DbConnectStatus;
         private System.Windows.Forms.DataGridView dataShow;

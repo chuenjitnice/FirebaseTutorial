@@ -2,6 +2,6 @@
 {
     class AutoIncrement
     {
-        public string counter { get; set; }
+        public string Counter { get; set; }
     }
 }
